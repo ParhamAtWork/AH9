@@ -44,9 +44,6 @@ class Source {
         while (head != null) {
             System.out.println(head.val);
             head = head.next;
-
-
-reverseList(a); // f -> e -> d -> c -> b -> a
         }
     }
 }
